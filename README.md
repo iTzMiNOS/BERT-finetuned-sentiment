@@ -59,10 +59,10 @@ Once you have the app running, you can input a tweet into the provided text box,
 
 ## Requirements
 
-- Python 3.x
+- Python 3.10+
 - Streamlit
 - Transformers
-- PyTorch or TensorFlow (depending on the framework used for fine-tuning)
+- PyTorch
 
 ## Credits
 
