@@ -8,7 +8,7 @@ st.title("Fine Tuned BERT")
 
 st.subheader("Tweets Multi-Class Sentiment Analysis")
 
-classifier = pipeline('text-classification', model='model')
+classifier = pipeline('text-classification', model='iTzMiNOS/BERT-finetuned-multiclass-tweet-sentiment-analysis')
 
 text = st.text_area("Enter Tweet Here:", placeholder="Start Typing...")
 
