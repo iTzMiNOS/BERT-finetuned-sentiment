@@ -2,6 +2,8 @@
 
 This repository contains a fine-tuned BERT (uncased) model for sentiment analysis, specifically trained on a dataset of 30,000 tweets. The model is capable of predicting one of six sentiments: **joy**, **anger**, **surprise**, **sadness**, **love**, and **fear**.
 
+![My Image](./example.png)
+
 ## Model Overview
 
 The model is based on the BERT architecture (uncased) and was fine-tuned on a dataset of 30,000 labeled tweets. Each tweet is classified into one of the following sentiment categories:
